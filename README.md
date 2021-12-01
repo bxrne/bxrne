@@ -1,1 +1,1 @@
-## Portfolio 🚀 (http://adambyrne.net)[http://adambyrne.net]
+## New portfolio site 🚀 http://adambyrne.net
