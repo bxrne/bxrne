@@ -1,1 +1,1 @@
-## New portfolio site 🚀 http://adambyrne.net
+## New portfolio site 🚀 https://bxrne.com
