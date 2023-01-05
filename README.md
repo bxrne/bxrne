@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Byrne</h1>
-<h3 align="center">[ISE] Student at the University of Limerick</h3>
-<br/>
-<br/>
-<p align="left"> <a href="https://twitter.com/adambxrne" target="blank"><img src="https://img.shields.io/twitter/follow/adambxrne?logo=twitter&style=for-the-badge" alt="adambxrne" /></a> </p>
+
 
 - 🔭 Studying [Immersive Software Engineering](https://software-engineering.ie/)
 
