@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https:bxrne.com](https:bxrne.com)
 
+- I'm also learning Artificial Intelligence, follow my progress over on [https://www.kaggle.com/adambyrne](Kaggle)
+
 - 📫 How to reach me **adamrbyrne@gmail.com**
 
 <br/>
