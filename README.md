@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam Byrne</h1>
 
-- Follow my AI Learning on [Kaggle](https://www.kaggle.com/adambyrne)
+### Follow my AI journey on [Kaggle](https://www.kaggle.com/adambyrne)
 
-- 👨‍💻 Portfolio > [https:bxrne.com](https:bxrne.com)
-
-
+- 👨‍💻 Portfolio [bxrne.com](https://bxrne.com)
 - 🔭 Studying [BSc+MSc Immersive Software Engineering](https://software-engineering.ie/)
-
-- 🌱 I’m currently learning **Data Centric Computing**
-
-
-
-- 📫 How to reach me **adamrbyrne@gmail.com** 
 
 <br/>
 
