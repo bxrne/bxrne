@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adam Byrne</h1>
 
+- Follow my AI Learning on [Kaggle](https://www.kaggle.com/adambyrne)
 
-- 🔭 Studying [Immersive Software Engineering](https://software-engineering.ie/)
+- 👨‍💻 Portfolio > [https:bxrne.com](https:bxrne.com)
+
+
+- 🔭 Studying [BSc+MSc Immersive Software Engineering](https://software-engineering.ie/)
 
 - 🌱 I’m currently learning **Data Centric Computing**
 
-- 👨‍💻 All of my projects are available at [https:bxrne.com](https:bxrne.com)
 
-- I'm also learning Artificial Intelligence, follow my progress over on [https://www.kaggle.com/adambyrne](Kaggle)
 
-- 📫 How to reach me **adamrbyrne@gmail.com**
+- 📫 How to reach me **adamrbyrne@gmail.com** 
 
 <br/>
 
