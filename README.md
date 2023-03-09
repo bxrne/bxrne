@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Byrne</h1>
 
-### Follow my AI journey on [Kaggle](https://www.kaggle.com/adambyrne)
-
 - 👨‍💻 Portfolio [bxrne.com](https://bxrne.com)
 - 🔭 Studying [BSc+MSc Immersive Software Engineering](https://software-engineering.ie/)
 
