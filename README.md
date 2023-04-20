@@ -2,6 +2,7 @@
 
 - 👨‍💻 Portfolio [bxrne.com](https://bxrne.com)
 - 🔭 Studying [BSc+MSc Immersive Software Engineering](https://software-engineering.ie/)
+- 🧠 Kaggle [projects](https://www.kaggle.com/adambyrne/code)
 
 <br/>
 
