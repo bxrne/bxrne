@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Point cloud based learning**
+- 🌱 I’m currently learning **Rust 🦀**
 
 - 👨‍💻 All of my projects are available at [https://bxrne.com](https://bxrne.com)
 
