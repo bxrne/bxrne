@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **C++ for ML **
+- 🌱 I’m currently learning **C++ for ML and Robotics**
 
 - 👨‍💻 All of my projects are available at [https://bxrne.com](https://bxrne.com)
 
