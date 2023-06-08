@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Rust 🦀**
+- 🌱 I’m currently learning **C++ for ML **
 
 - 👨‍💻 All of my projects are available at [https://bxrne.com](https://bxrne.com)
 
