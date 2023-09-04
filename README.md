@@ -3,7 +3,7 @@
 </a>
 
 ### Hello 👋
-I am an [ISE](https://software-engineering.ie) student on residency at Analog Devices working with **Computer Vision** and Detection with **Sensor Fusion**.
+I am an [ISE](https://software-engineering.ie) student on residency.
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
