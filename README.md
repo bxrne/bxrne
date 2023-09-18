@@ -3,7 +3,7 @@
 </a>
 
 ### Hello 👋
-I am an [ISE](https://software-engineering.ie) student on residency.
+I am an [ISE](https://software-engineering.ie) student on residency at [Provizio](provizio.ai)
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
