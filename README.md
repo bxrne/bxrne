@@ -5,6 +5,8 @@
 ### Hello 👋
 I am an [ISE](https://software-engineering.ie) student on residency at [Provizio](https://provizio.ai) learning about Computer Vision and Sensor Fusion.
 
+Developing [velox](https://github.com/theadambyrne/velox) on the side as a light weight and simple virtual dom and templating library for the web.
+
 Read more about my progress at [bxrne.com](https://bxrne.com)
 
 
