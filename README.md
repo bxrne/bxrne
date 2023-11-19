@@ -1,7 +1,3 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=theadambyrne&show_icons=true&hide_border=true&icon_color=57ab5a&title_color=57ab5a">
-</a>
-
 ### Hello 👋
 I am an [ISE](https://software-engineering.ie) student on residency at [Provizio](https://provizio.ai) learning about Computer Vision and Sensor Fusion.
 Read more about my progress at [bxrne.com](https://bxrne.com)
