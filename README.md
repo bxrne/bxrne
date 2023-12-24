@@ -2,6 +2,7 @@
 
 I'm a passionate **Immersive Software Engineering** student with a focus on **Deep Learning** and expertise in **Computer Vision**. 
 Having completed residencies in industrial automation and automotive perception I am now pursuing projects in High Powered Rocketry at UL: [see here](https://github.com/ULAS-HiPR).
+
 💼 Check out what I am up to at [bxrne.com](https://bxrne.com).
 
 I started coding around 10 y.o. and was mainly in the Web Dev space exploring Angular 1 some years later and moving to React and Next.js
