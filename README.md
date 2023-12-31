@@ -1,11 +1,10 @@
-# 👋 Hey there, I'm Adam Byrne!
+# 👋 Hey there, I'm Adam!
 
-I'm a passionate **Immersive Software Engineering** student with a focus on **Deep Learning** and expertise in **Computer Vision**. 
-Having completed residencies in industrial automation and automotive perception I am now pursuing projects in High Powered Rocketry at UL: [see here](https://github.com/ULAS-HiPR).
+I'm a passionate [**[ISE]**](https://software-engineering.ie) student with a focus on **Deep Learning** and expertise in **Computer Vision** with Industrial automation and Automotive perception experience on high-level projects. 💼 [Portfolio](https://bxrne.com)
 
-💼 Check out what I am up to at [bxrne.com](https://bxrne.com).
+**Currently working on:** [relay](https://github.com/ULAS-HiPR/relay) a processing chain for machine learning applications for a satellite as part of the MACH24 competition as part of [ULAS-HiPR](https://github.com/ULAS-HiPR)
 
-I started coding around 10 y.o. and was mainly in the Web Dev space exploring Angular 1 some years later and moving to React and Next.js
+I started coding around 10 y.o. and was mainly in the Web Dev space exploring Angular 1 some years later and moving to React and Next.
 On my residencies at ISE I have found my niche to be in Computer Vision. I have industry experience working with in-house models, custom training strategies and integrating new runtime supports into service architecture for an embedded edge deployed NVIDIA ecosystem.
 
 📚 Read about my projects and learnings on my [blog](https://bxrne.com/posts)
