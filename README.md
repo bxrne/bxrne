@@ -9,14 +9,12 @@ I'm a passionate [**[ISE]**](https://software-engineering.ie) student with a foc
 
 ## 🔧 Tooling
 
-Many of my projects now centre around these technologies. I have experience developing my own tooling for training and dataset management.
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=theadambyrne&count_private=true&theme=tokyonight&showicons=true)]()
-
+Many of my projects now centre around these technologies. I have experience developing my own tooling for training, dataset management and MLOps.
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorRT-4d4d4d?style=flat-square&logo=nvidia&logoColor=fff)
 ![](https://img.shields.io/badge/-ONNX-269539?style=flat-square&logo=onnx&logoColor=fff)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=theadambyrne&count_private=true&theme=tokyonight&showicons=true)]()
