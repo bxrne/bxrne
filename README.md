@@ -3,7 +3,7 @@
 I'm a passionate [**[ISE]**](https://software-engineering.ie) student with a focus on **Deep Learning** and expertise in **Computer Vision** with Industrial automation and Automotive perception experience on high-level projects. 💼 [Portfolio](https://bxrne.com)
 
 
-**Currently working on:** [relay](https://github.com/ULAS-HiPR/relay) a processing chain for machine learning applications ([AgriNet](https://github.com/ULAS-HiPR/AI-Utils)) for a satellite as part of the MACH24 competition as part of [ULAS-HiPR](https://github.com/ULAS-HiPR)
+**Currently working on:** [relay](https://github.com/ULAS-HiPR/relay) a processing chain for machine learning applications ([AgriNet](https://github.com/ULAS-HiPR/AI-Utils)) for a CanSat as part of the MACH24 competition as part of [ULAS-HiPR](https://github.com/ULAS-HiPR)
 
 📚 Read about my projects and learnings on my [blog](https://bxrne.com/posts)
 
