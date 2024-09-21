@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/8269411?v=4"  />
-</div>
-
-###
-
 <h1 align="center">Adam Byrne</h1>
 
 ###
@@ -19,8 +13,9 @@
 
 ###
 
-<p align="left">Software dev doing MSc ISE. Making high powered rockets in UL Notion Campus Leader 2024<br><br>- 🔭 I’m working as a part time SWE at Johnson and Johnson in Manufacturing automation<br>- 📚 I'm currently doing my Master's degree in Software Engineering at [ISE](https://software-engineering.ie)<br>- ⚡ In my free time I build rockets @ULAS-HiPR and am a @Notion Campus Leader '24</p>
+<p align="left">Software dev doing MSc ISE (graduating 2026) studying software engineering with industry experience in Industry 4.0 (robotics and computer vision), Radar vision, Manufacturing automation and cloud computing (Pharma 4.0).<br><br>- 🔭 I’m working as a part time SWE at Johnson and Johnson in Manufacturing automation<br>- 📚 I'm currently doing my Master's degree in Software Engineering at https://software-engineering.ie<br>- ⚡ In my free time I build rockets https://ulas-hipr.ie and I am a @Notion Campus Leader '24 for the University of Limerick</p>
 
+I’m Adam, an MSc ISE student 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
