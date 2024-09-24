@@ -14,9 +14,8 @@
 
 ###
 
-<p align="left">Software dev doing MSc ISE (graduating 2026) studying software engineering with industry experience in Industry 4.0 (robotics and computer vision), Radar vision, Manufacturing automation and cloud computing (Pharma 4.0).<br><br>- 🔭 I’m working as a part time SWE at Johnson and Johnson in Manufacturing automation<br>- 📚 I'm currently doing my Master's degree in Software Engineering at https://software-engineering.ie<br>- ⚡ In my free time I build rockets https://ulas-hipr.ie and I am a @Notion Campus Leader '24 for the University of Limerick</p>
+<p align="left">Software dev doing MSc ISE (graduating 2026) studying software engineering with industry experience in Industry 4.0 (robotics and computer vision), Radar vision, Manufacturing automation and cloud computing (Pharma 4.0).<br><br>- 🔭 I’m working as a part time SWE at Johnson and Johnson in Manufacturing automation<br>- 📚 I'm currently doing my Master's degree in Software Engineering at https://software-engineering.ie<br>- ⚡ In my free time I build rockets https://ulas-hipr.ie and I'm a Notion Campus Leader '24 for the University of Limerick</p>
 
-I’m Adam, an MSc ISE student 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
