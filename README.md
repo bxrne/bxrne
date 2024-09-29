@@ -53,9 +53,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=theadambyrne&theme=tokyonight&column=-1&margin-w=10&margin-h=10&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=theadambyrne&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=theadambyrne&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bxrne&theme=tokyonight&column=-1&margin-w=10&margin-h=10&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bxrne&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=bxrne&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
