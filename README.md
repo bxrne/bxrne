@@ -5,23 +5,13 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.1%20thousand%20lines%20of%20code-blue)
 
-<div align="center">
-  <a href="https://bxrne.com" target="_blank"> </a>
-  <a href="https://www.linkedin.com/in/bxrne" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/abxrne" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
+### About me
 
 <p align="left">Software dev doing MSc ISE (graduating 2026) studying software engineering with industry experience in Industry 4.0 (robotics and computer vision), Radar vision, Manufacturing automation and cloud computing (Pharma 4.0).<br><br>- 📚 I'm currently doing my Master's degree in Software Engineering at https://software-engineering.ie<br>- ⚡ In my free time I build rockets https://ulas-hipr.ie and I'm a Notion Campus Leader '24 for the University of Limerick</p>
 
 
 
-### Recent Activities
+### Recent
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bxrne&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
@@ -43,22 +33,3 @@
 ### Achievement
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bxrne&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Metrics
-
-<details>
-  <summary>GitHub Metrics</summary>
-
-<!-- ![Metrics](https://metrics.lecoq.io/bxrne) -->
-[![Metrics](https://github.com/bxrne/bxrne/blob/main/images/github-metrics.svg)](https://github.com/lowlighter/metrics)
-
-</details>
-
-### Wakatime Analysis
-
-<!-- <img height="150" src="https://github.com/bxrne/bxrne/blob/master/images/stat.svg" alt="Alternative Text"/> -->
-
-<details>
-  <summary>Other Statics</summary>
-
-  <!--START_SECTION:waka-->
