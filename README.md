@@ -2,8 +2,8 @@
 <h6 align="center">https://bxrne.com</h6>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%2C786%20hrs%2015%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.1%20thousand%20lines%20of%20code-blue)
+![](https://komarev.com/ghpvc/?username=bxrne&color=blue&style=flat)
 
 ### About me
 
