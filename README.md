@@ -1,10 +1,6 @@
 <h1 align="center">Adam Byrne</h1>
 <h6 align="center">https://bxrne.com</h6>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C786%20hrs%2015%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.1%20thousand%20lines%20of%20code-blue)
-![](https://komarev.com/ghpvc/?username=bxrne&color=blue&style=flat)
-
 ### About me
 
 <p align="left">Software dev doing MSc ISE (graduating 2026) studying software engineering with industry experience in Industry 4.0 (robotics and computer vision), Radar vision, Manufacturing automation and cloud computing (Pharma 4.0).<br><br>- 📚 I'm currently doing my Master's degree in Software Engineering at https://software-engineering.ie<br>- ⚡ In my free time I build rockets https://ulas-hipr.ie and I'm a Notion Campus Leader '24 for the University of Limerick</p>
