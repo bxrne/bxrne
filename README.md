@@ -4,7 +4,7 @@ Studying BSc+MSc ISE. I've worked in MedTech (PAS-X Deployment, MES Infrastructu
 
 # Stats
 
-Not all my work (for job especially) is on Github - this is mostly sideprojects or college assignments.
+Not all my work (for job especially) is on Github - this is mostly sideprojects, plugins or college assignments.
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxrne&theme=gruvbox)
 
