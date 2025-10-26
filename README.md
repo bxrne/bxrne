@@ -1,6 +1,6 @@
 # Me
 
-Studying BSc+MSc ISE. I've worked in MedTech (PAS-X Deployment, MES Infrastructure and tooling), ADAS (Radar and Computer Vision) and Industrial Automation (Teleoperation, LiDAR and Infrared), AI and Cloud Infrastructure Automation for Investment Funds analysis. Built & Flown competition rockets at ULAS HiPR for MachX (2nd in 2025) and EuRoC competitions (5th in Payload). Enjoy doing hard things.
+Interested in software and distributed systems. I’ve worked in MedTech developing MES integrations and observability tooling for factory automation, built AI analysis platforms for investment fund software, and worked on radar vision ML in ADAS projects. In robotics, I developed teleoperation tools and simulation environments for industrial arms and created performance benchmarks for computer vision models. I’ve led payloads for competition rockets, including deployable CanSats running edge AI and real-time telemetry. Mainly Go, Typescript, Python, Bash, C, C++, and Lua, via Kubernetes, Helm, Linux, and Terraform. I’m currently learning OCaml...
 
 # Stats
 
