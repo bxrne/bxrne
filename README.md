@@ -9,6 +9,11 @@ Interested in **software and distributed systems**. I've worked across multiple 
 **Note**: Not all my work (especially professional projects) are on GitHub. This is mostly side projects, plugins, and college assignments.
 
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxrne&theme=gruvbox" alt="Profile Details" />
+
+</p>
+
 <div align="center">
   
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -31,18 +36,8 @@ Interested in **software and distributed systems**. I've worked across multiple 
 
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxrne&theme=gruvbox&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxrne&theme=gruvbox" alt="Profile Details" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bxrne&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxrne&theme=gruvbox&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
 
 
   <div align="center">
