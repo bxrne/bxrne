@@ -7,5 +7,3 @@ Interested in software and distributed systems. I’ve worked in MedTech develop
 Not all my work (for job especially) is on Github - this is mostly sideprojects, plugins or college assignments.
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxrne&theme=gruvbox)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bxrne&theme=gruvbox)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bxrne&theme=gruvbox)
