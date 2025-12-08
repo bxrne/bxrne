@@ -1,14 +1,8 @@
-Software engineer interested in distributed systems. Currently learning OCaml and working on temporal database systems.
+Software engineer interested in distributed systems. Currently learning OCaml and working on temporal database systems. Background in MedTech automation, ADAS computer vision, and industrial robotics. Side projects include Neovim plugins and competition rocket payloads with edge AI. MSc Software Engineering student graduating 2026.
 
 **Not all my work is on GitHub** — most professional projects are private. This account is side projects, Neovim plugins, rocket payloads, and college work.
 
 
-
-### Verticals
-- **MedTech**: Built MES integrations, observability tooling, and factory automation systems (J&J)
-- **Finance**: Developed cloud platforms for AI-driven financial analysis (BJF Research)
-- **ADAS**: Radar vision and computer vision for autonomous systems
-- **Robotics**: Teleoperation tools and simulation environments for industrial automation
 <hr/>
 <div align="center">
 <p align="center">
