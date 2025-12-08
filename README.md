@@ -1,19 +1,14 @@
-<center><h1><a target="_blank" href="https://bxrne.com">[bxrne.com]</a></h1></center>
-
-Interested in **software and distributed systems**. I've worked across multiple domains:
-
-- **MedTech**: Developed MES integrations and observability tooling for factory automation
-- **AI Platforms**: Built AI analysis platforms for investment fund software
-- **ADAS**: Worked on radar vision ML in advanced driver assistance systems
-- **Robotics**: Developed teleoperation tools and simulation environments for industrial arms, created performance benchmarks for computer vision models
-- **Aero**: Led payloads for competition rockets, including deployable CanSats running edge AI and real-time telemetry
-
-**Note**: Not all my work (especially professional projects) are on GitHub. This is mostly side projects, plugins, and college assignments.
-
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxrne&theme=gruvbox" alt="Profile Details" />
+</p>
 
+<p align="center">
+Not all my work (especially professional projects) are on GitHub. This is mostly side projects, plugins, and college assignments.
+- Where I've worked: <a target="_blank" href="https://bxrne.com/work">/work</a>
+- What I've done: <a target="_blank" href="https://bxrne.com/projects">/projects</a>
+- Wrote about: <a target="_blank" href="https://bxrne.com/blog">/blog</a>
+- Stuff i pass on: <a target="_blank" href="https://www.bxrne.com/reading-list">/reading</a>
 </p>
 
 <div align="center">
