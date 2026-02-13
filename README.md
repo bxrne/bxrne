@@ -2,8 +2,10 @@ Software engineer interested in distributed systems. Currently learning OCaml an
 
 **Not all my work is on GitHub** — most professional projects are private. This account is side projects, Neovim plugins, rocket payloads, and college work.
 
+    
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bxrne&bg_color=504945&color=d4be98&line=d8a657&point=e78a4e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<hr/>
+
 <div align="center">
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxrne&theme=gruvbox" alt="Profile Details" />
