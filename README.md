@@ -1,9 +1,8 @@
-Software engineer interested in distributed systems. Currently learning OCaml and working on temporal database systems. Background in MedTech automation, ADAS computer vision, and industrial robotics. Side projects include Neovim plugins and competition rocket payloads with edge AI. MSc Software Engineering student graduating 2026.
+Software engineer interested in distributed systems. Currently learning Zig and working on temporal database systems. Background in MedTech automation, ADAS computer vision, and industrial robotics. Side projects include Neovim plugins and competition rocket payloads with edge AI. MSc Software Engineering student graduating 2026.
 
 **Not all my work is on GitHub** — most professional projects are private. This account is side projects, Neovim plugins, rocket payloads, and college work.
 
-    
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bxrne&bg_color=504945&color=d4be98&line=d8a657&point=e78a4e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](profile-3d-contrib/profile-night-green.svg)
 
 
 <div align="center">
