@@ -2,9 +2,6 @@ Software engineer interested in distributed systems. Currently learning Zig and 
 
 **Not all my work is on GitHub** — most professional projects are private. This account is side projects, Neovim plugins, rocket payloads, and college work.
 
-![Ashutosh's github activity graph](profile-3d-contrib/profile-night-green.svg)
-
-
 <div align="center">
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxrne&theme=gruvbox" alt="Profile Details" />
