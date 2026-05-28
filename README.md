@@ -1,4 +1,4 @@
- Building [**Tau**](https://github.com/bxrne/tau) — a time-series database where time is modelled
+ Building [**tau**](https://github.com/bxrne/tau): a time-series database where time is modelled
   as a sequence of half-open intervals `[start, end)` with algebraically precise semantics.
 
   Corrections append as new layers; the newest layer wins at query time. Compaction normalises any
